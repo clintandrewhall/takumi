@@ -1600,7 +1600,7 @@ dependencies = [
 
 [[package]]
 name = "takumi"
-version = "2.18.1"
+version = "2.18.2"
 dependencies = [
  "criterion",
  "gif",
@@ -1714,7 +1714,7 @@ dependencies = [
 
 [[package]]
 name = "takumi-pdf"
-version = "0.18.3"
+version = "0.18.4"
 dependencies = [
  "base64",
  "bumpalo",

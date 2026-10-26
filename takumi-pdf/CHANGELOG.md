@@ -1,3 +1,9 @@
+## takumi-pdf@0.18.4
+
+### Faster renderer initialization
+
+Renderers now load the bundled variable Geist font without decompressing WOFF2 or copying its bytes. Custom WOFF2 fonts remain supported.
+
 ## takumi-pdf@0.18.2
 
 ### Draw SVG images at the size they take up
